@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+	background-image: url(../image/seamless-pattern-with-fish-2259.png);
+	font-weight:600;
+	color: #696969;
+}
+
+.topic{
+	font-size:20px;
+	float:left;
+
+}
+.fieldone{
+	display:flex;
+	padding-left:30px;
+}
+
+.field{
+	display:flex;
+}
+
+.topictwo{
+	font-size:20px;
+	
+}
+
+.check{
+	margin-right:5px;
+}
+
+.ur{
+	text-decoration:none;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:25px;
+}
+
+.ur:hover{
+	color:#ee82ee;
+    margin-left:auto;
+	margin-right:auto;
+	font-size:25px;
+}
+
+.message{
+	font-size:20px;
+	text-align:center;
+}
